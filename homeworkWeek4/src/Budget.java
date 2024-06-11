@@ -16,6 +16,10 @@ public class Budget{
     }
 
     public Expense findExpense(String description) {
+
+        private Date date;
+        private double amount;
+        private String description, category, paymentMethod, recipientReference, paidTo;
         // will return a variable with datatype 'Expense' OR null
         return null;
     }
